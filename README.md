@@ -20,10 +20,7 @@ Using the "zero-shot-classification" BERT model pipeline imported from the ‘tr
 (on emo_sent_info_non_null_loc.csv and emo_sent_info_null_loc.csv)
 - #### Analytics on emo_sent_info_non_null_loc.csv:
 Tableau Public Dashboard link- https://public.tableau.com/app/profile/irss350/viz/TestDatawithavailableLocation/Dashboard1
-
+<img src= "Dashboard images/Capture.PNG" width="1550" height="450">
 - #### Analytics on emo_sent_info_null_loc.csv:
 Tableau Public Dashboard link- https://public.tableau.com/app/profile/irss350/viz/TestDatawithoutLocation/Dashboard1
-
-
-
-For Insights and Detailed explanation, visit- https://docs.google.com/document/d/1ysjdKVfHSIfAL36s8PzjxARHsnzOpzT2oPRL0Z7iJTU/edit?usp=sharing
+<img src= "Dashboard images/Capture2.PNG" width="900" height="450">
